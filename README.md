@@ -32,6 +32,8 @@ ________________________________________________________________
  - The elbow method is used on the PCA data and the best value for  `k`  is found.
 
  - The Cryptocurrencies are clustered with K-means using the PCA Data
+   
+ - ####IMPORTANT: hvplots do not appear in github as confirmed by our tutor. Images of the outputs as seen when run locally have been included with the code as markdown.
 
 #### Visualise and Compare the Results 
 
